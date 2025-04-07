@@ -16,8 +16,8 @@ const Navbar = () => {
         <div className='navbar-menu'>
           <ul>
             <li><Link to="/">Ana Səhifə</Link></li>
-            <li><Link to="/haqqimizda">Haqqımızda</Link></li>
-            <li><Link to="/layiheler">Layihələr</Link></li>
+            <li><Link to="/about">Haqqımızda</Link></li>
+            <li><Link to="/projects">Layihələr</Link></li>
             <li><Link to="/contact">Əlaqə</Link></li>
           </ul>
         </div>
