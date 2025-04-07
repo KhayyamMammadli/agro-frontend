@@ -49,7 +49,7 @@ const Contact = () => {
         <div className="contact-page">
             <div className="contact-header">
                 <h1>Bizimlə Əlaqə</h1>
-                <p>Suallarınız üçün bizimlə əlaqə saxlayın</p>
+                <p>Suallarınız üçün bizimlə əlaqə saxlayın.</p>
             </div>
 
             <div className="contact-container">
