@@ -1,10 +1,11 @@
 import React from 'react';
-import {Routes, Route, Navigate} from 'react-router-dom';
-import Home from '../pages/Home';
-import Contact from '../pages/Contact';
-import About from '../pages/About';
-import Projects from '../pages/Projects';
-import ProjectInner from '../pages/ProjectInner';
+import {Routes, Route} from 'react-router-dom';
+import Home from "../pages/Home";
+import Contact from "../pages/Contact";
+import About from "../pages/About.jsx";
+import Projects from "../pages/Projects";
+import ProjectInner from "../pages/ProjectInner";
+
 const AppRoutes = () => {
         return (
             <Routes>
